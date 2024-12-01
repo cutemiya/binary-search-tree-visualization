@@ -1,0 +1,15 @@
+.wrapper {
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+}
+
+.action-section {
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+
+    border-radius: 5px;
+    border: solid gray 1px;
+    padding: 5px;
+}

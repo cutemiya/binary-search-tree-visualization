@@ -1,0 +1,6 @@
+.tree-wrapper {
+    width: 100%;
+    min-height: 400px;
+    border-radius: 25px;
+    border: 1px solid gray;
+}
