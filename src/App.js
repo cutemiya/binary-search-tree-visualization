@@ -9,6 +9,7 @@ import {Analytics} from "./components/Analytics";
 import BinarySearchTree from "./data/BinarySearchTree";
 
 import './App.css'
+import {SortComparison} from "./components/SortsComparison";
 
 const App = () => {
     const [bst, setBst] = useState(new BinarySearchTree());
@@ -92,6 +93,7 @@ const App = () => {
                     orders={orders}
                 />
             </div>
+            <SortComparison />
         </div>
     );
 };

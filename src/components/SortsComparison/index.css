@@ -1,0 +1,19 @@
+.sort-wrapper {
+    display: flex;
+    justify-content: space-around;
+    max-width: 100%;
+    gap: 5px;
+
+    border-radius: 5px;
+    border: solid gray 1px;
+    padding: 5px;
+}
+
+.info-wrapper {
+    display: flex;
+    flex-direction: column;
+
+    border-radius: 5px;
+    border: solid gray 1px;
+    padding: 5px;
+}
